@@ -175,3 +175,5 @@ control   Ready    master   37m   v1.18.10+k3s1
 node2     Ready    <none>   16m   v1.18.10+k3s1
 node1     Ready    <none>   31m   v1.18.10+k3s1
 Now we can see that our Kubernetes nodes have a status of Ready and are operational. Calico is now installed on your cluster and you may proceed to the next module: Installing the Sample Application.
+
+
