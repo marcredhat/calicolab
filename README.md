@@ -1,4 +1,8 @@
 
+cat /etc/redhat-release
+CentOS Linux release 7.6.1810 (Core)
+
+
 
 ```bash
 
